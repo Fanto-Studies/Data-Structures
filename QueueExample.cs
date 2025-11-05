@@ -1,6 +1,12 @@
 using System;
 using System.Collections.Generic;
 
+/**
+ * QUEUE - FILA
+ *
+ * -> Processo FIFO = First-In,First-Out
+ */
+
 Queue<string> queue = new Queue<string>();
 
 // Adding value into the Queue
