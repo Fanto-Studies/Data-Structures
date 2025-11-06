@@ -1,15 +1,21 @@
-# DATA STRUCTURES in Csharp
+<table align="center"><tr><td align="center" width="9999">
+    <h1>C# Data Structures</h1>
+</td></tr></table>
 
 ## Observations
 
-- Use .NET 10 to run the files, using the command:
+- Use `.NET 10` to run the files.
+- Install [.NET 10](https://dotnet.microsoft.com/en-us/download/dotnet/10.0)!
+- You can run the files in terminal with the following command:
 
 ```shell
 dotnet run <fileName>.cs
 ```
 
-## Files
+## Basic Examples
 
-- [#1]`StackExample.cs` -> Basic Examples of using Stack.
-- [#2]`QueueExample.cs` -> Basic Examples of using Queue.
-- [#3]`DateExample.cs` -> Basic Example to use Dates (Not Data Structure but important!)
+&#8594; `StackExample.cs`
+&#8594; `QueueExample.cs`
+&#8594; `LinkedListExample.cs`
+&#8594; `DateExample.cs`
+&#8594; `DictionaryExample.cs`
