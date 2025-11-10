@@ -15,7 +15,11 @@ dotnet run <fileName>.cs
 ## Basic Examples
 
 &#8594; `StackExample.cs`
+
 &#8594; `QueueExample.cs`
+
 &#8594; `LinkedListExample.cs`
+
 &#8594; `DateExample.cs`
+
 &#8594; `DictionaryExample.cs`
