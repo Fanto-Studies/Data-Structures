@@ -1,8 +1,9 @@
 <table align="center"><tr><td align="center" width="9999">
+    <img src="https://raw.githubusercontent.com/F4NT0/RESTTemplate/master/Docs/Configuration/images/csharp.svg"></img>
     <h1>C# Data Structures</h1>
 </td></tr></table>
 
-## Observations
+## Initial Configuration
 
 - Use `.NET 10` to run the files.
 - Install [.NET 10](https://dotnet.microsoft.com/en-us/download/dotnet/10.0)!
@@ -12,14 +13,36 @@
 dotnet run <fileName>.cs
 ```
 
-## Basic Examples
+## Data Structures explanations
 
-&#8594; `StackExample.cs`
+- :green_book: is for Data Structures in `System.Collections.Generic`
+- :orange_book: is for Aditional Structures
+- :blue_book: is for other kind of important structures
+- :closed_book: is for LINQ explanations
 
-&#8594; `QueueExample.cs`
+<details>
+    <summary> :green_book: Queue</summary>    
+    TBD
+</details>
 
-&#8594; `LinkedListExample.cs`
+<details>
+    <summary> :green_book: Stack</summary>    
+    TBD
+</details>
 
-&#8594; `DateExample.cs`
+<details>
+    <summary> :blue_book: DateTime</summary>    
+    TBD
+</details>
 
-&#8594; `DictionaryExample.cs`
+<details>
+    <summary> :green_book: List</summary>    
+    TBD
+</details>
+
+<details>
+    <summary>:green_book: LinkedList</summary>    
+    TBD
+</details>
+
+
