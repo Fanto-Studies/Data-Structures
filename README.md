@@ -1,5 +1,5 @@
 <table align="center"><tr><td align="center" width="9999">
-    <img src="https://raw.githubusercontent.com/F4NT0/RESTTemplate/master/Docs/Configuration/images/csharp.svg" width="200" height="200"></img>
+    <img src="https://raw.githubusercontent.com/F4NT0/RESTTemplate/master/Docs/Configuration/images/csharp.svg" width="100" height="100"></img>
     <h1>C# Data Structures</h1>
 </td></tr></table>
 
@@ -23,15 +23,13 @@ dotnet run <fileName>.cs
 <details>
     <summary> :green_book: Queue</summary>    
     <h3>Explanation</h3>
-    - A Queue is like a line of people waiting for something — for example, at a bank, a coffee shop, or a bus stop.
-    - In technology, a Queue is a way to organize tasks or items so that they are handled in the order they arrived. This is called First-In, First-Out (FIFO) — the first item that goes into the queue is the first one to come out.
+    <p>A Queue is like a line of people waiting for something — for example, at a bank, a coffee shop, or a bus stop.</p>
+    <p>In technology, a Queue is a way to organize tasks or items so that they are handled in the order they arrived. This is called <b>First-In, First-Out (FIFO)</b> — the first item that goes into the queue is the first one to come out.</p>
     <h3>Real-life examples</h3>
-    - Email sending system: Emails are added to a queue and sent one by one.
-    - Print jobs: When you print multiple documents, they go into a queue and are printed in order.
-    - Customer support: People waiting to talk to an agent are placed in a queue.
-    - Online orders: Orders are processed in the order they were received.
-    <h3>Code Methods</h3>
-    
+    <p><b>Email sending system</b>: Emails are added to a queue and sent one by one.</p>
+    <p><b>Print jobs</b>: When you print multiple documents, they go into a queue and are printed in order.</p>
+    <p><b>Customer support</b>: People waiting to talk to an agent are placed in a queue.</p>
+    <p><b>Online orders</b>: Orders are processed in the order they were received.</p>
 </details>
 
 <details>
