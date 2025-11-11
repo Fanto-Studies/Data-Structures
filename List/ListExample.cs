@@ -23,6 +23,17 @@ Console.WriteLine("Visualization of the List created: \n");
 exampleList.ToList().ForEach(item => Console.Write($" | {item} "));
 Console.WriteLine("\n");
 
+// Get values from the List
+Console.WriteLine("Get values from the List: \n");
+Console.WriteLine($"The first number of the list is {exampleList[0]}");
+Console.WriteLine($"The last number of the list is {exampleList[^1]}");
+Console.WriteLine($"The 3 first values from the list is \n");
+foreach (string item in exampleList[0..3])
+{
+  Console.Write($" {item} |");
+}
+Console.WriteLine("\n");
+
 // Show the number of elements
 int listSize = exampleList.Count;
 Console.WriteLine($"Number of elements inside the List: {listSize} \n");
@@ -35,7 +46,7 @@ if (exampleList.Contains("3"))
 {
   Console.WriteLine("The value 3 exists into the List!");
   int location = exampleList.IndexOf("3");
-  Console.WriteLine($"The location of the value 3 (starting at index 0) is in {location}");
+  Console.WriteLine($"The location of the value 3 (starting at index 0) is in index {location}");
   Console.WriteLine("\n");
 }
 
